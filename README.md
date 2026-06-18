@@ -1,0 +1,2 @@
+# https-github.com-rawanfouzan-Event-Registration-and-Ticket-Management-System-Java-Swing-MySQL
+A Java Swing desktop application integrated with MySQL using JDBC, designed to manage event creation, user registrations, seat availability, and ticket generation. The system implements role-based access control, input validation, exception handling, and relational database constraints to ensure secure and consistent operations.
